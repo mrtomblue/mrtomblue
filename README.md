@@ -1,4 +1,4 @@
-#####👋 Hi, I’m @mrtomblue
+#👋 Hi, I’m @mrtomblue
 - 👀 I’m interested in frontend devlopment and graphic design
 - 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on ...
